@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoaguin&show_icons=true&locale=en" alt="khoaguin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoaguin&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="khoaguin" /></p>

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khoaguin/khoaguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoaguin&show_icons=true&locale=en&count_private=true" alt="khoaguin" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoaguin&show_icons=true&locale=en&count_private=true" alt="khoaguin" /></p> -->

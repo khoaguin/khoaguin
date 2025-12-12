@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on distributed AI
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoaguin&show_icons=true&locale=en&count_private=true" alt="khoaguin" /></p> -->
+
+Hey there 👋 I'm Khoa. 🔭 I’m currently working on distributed AI

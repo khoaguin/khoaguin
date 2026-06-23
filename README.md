@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoaguin&show_icons=true&locale=en&count_private=true" alt="khoaguin" /></p> -->
 
-Hey there 👋 I'm Khoa. 🔭 I’m currently working on distributed AI
+Hey there 👋 I'm Khoa. 🔭 I’m currently working on privacy-preserving, distributed AI
